@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aravindi Chirathya 👋
 
-<!--
-**vindisiriwardana/vindisiriwardana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BSc IT @ SLIIT | Full-Stack Developer | SQL & Java Expert**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Applying for **Rocket Universe Intern** @ Rocket Software  
+> Ready to learn **UniBasic**, **Rocket Universe**, and **POS systems** with full training!
+
+---
+
+### Tech Stack
+```text
+Java | PHP | JavaScript | MERN | Kotlin | MySQL | Git | Selenium | Agile
+Python | Linux | Shell Scripting (Learning)
